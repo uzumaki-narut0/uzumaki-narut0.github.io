@@ -1,9 +1,3 @@
-/*
- * Start Bootstrap - Landing Page (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body,
 html {
     width: 100%;
@@ -31,7 +25,7 @@ h6 {
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 50px; 
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
@@ -223,13 +217,21 @@ p.copyright {
 }
 #resume_extension{
     background-color: #222;
-    padding-bottom:3%;
+    padding-bottom:4%;
+    padding-top: 2.5%;
 }
 #resume_button{
+    display: block;
     margin:auto;
     padding: 10px 50px;
     background-color: #222;
     color: white;
     border:2px solid white;
     font-size: 20px;
+
+}
+.centeredruler{
+    margin:auto;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
 }
