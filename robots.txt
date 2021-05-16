@@ -1,9 +1,4 @@
----
-layout: null
-sitemap:
-  exclude: 'yes'
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://uzumaki-narut0.github.io/sitemap.xml
