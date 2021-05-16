@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swapnil</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>https://uzumaki-narut0.github.io/</link>
+    <atom:link href="https://uzumaki-narut0.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 16 May 2021 15:36:18 +0530</pubDate>
+    <lastBuildDate>Sun, 16 May 2021 15:36:18 +0530</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Rate Limiting</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 Mar 2021 00:00:00 +0530</pubDate>
+        <link>https://uzumaki-narut0.github.io/tool/2021/03/02/rate-limiting.html</link>
+        <guid isPermaLink="true">https://uzumaki-narut0.github.io/tool/2021/03/02/rate-limiting.html</guid>
+        
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Understanding Merkle Trees</title>
+        <description>
+</description>
+        <pubDate>Wed, 10 Feb 2021 00:00:00 +0530</pubDate>
+        <link>https://uzumaki-narut0.github.io/design/tool/2021/02/10/understanding-merkle-trees.html</link>
+        <guid isPermaLink="true">https://uzumaki-narut0.github.io/design/tool/2021/02/10/understanding-merkle-trees.html</guid>
+        
+        
+        <category>design</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+  </channel>
+</rss>
